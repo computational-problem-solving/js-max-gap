@@ -8,7 +8,7 @@ import 'babel-polyfill' ;
 
 Then
 ```js
-const redblacktree = require( 'aureooms-es-max-gap' ) ;
+const redblacktree = require( 'aureooms-js-max-gap' ) ;
 // or
-import redblacktree from 'aureooms-es-max-gap' ;
+import redblacktree from 'aureooms-js-max-gap' ;
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "aureooms-es-max-gap",
+  "name": "aureooms-js-max-gap",
   "description": "max-gap library for JavaScript",
   "version": "1.0.0",
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/es-max-gap/issues"
+    "url": "https://github.com/aureooms/js-max-gap/issues"
   },
   "dependencies": {
     "aureooms-js-compare": "^1.4.5",
@@ -36,7 +36,7 @@
     "esdoc": "^0.4.8",
     "nyc": "^8.4.0"
   },
-  "homepage": "https://aureooms.github.io/es-max-gap",
+  "homepage": "https://aureooms.github.io/js-max-gap",
   "keywords": [
     "gap",
     "max",
@@ -47,7 +47,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/es-max-gap"
+    "url": "https://github.com/aureooms/js-max-gap"
   },
   "scripts": {
     "build": "babel src -d lib",

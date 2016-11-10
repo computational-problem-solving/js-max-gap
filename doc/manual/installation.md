@@ -4,10 +4,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:aureooms-es-max-gap
+jspm install npm:aureooms-js-max-gap
 ```
 
 ### npm
 ```terminal
-npm install aureooms-es-max-gap --save
+npm install aureooms-js-max-gap --save
 ```
