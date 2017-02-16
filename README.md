@@ -3,7 +3,7 @@
 
 max-gap library for JavaScript. See [documentation](https://aureooms.github.io/js-max-gap/index.html).
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-max-gap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-max-gap/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-max-gap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-max-gap/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-max-gap.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-max-gap)
 [![Build status](https://img.shields.io/travis/aureooms/js-max-gap.svg?style=flat)](https://travis-ci.org/aureooms/js-max-gap)
 [![Coverage status](https://img.shields.io/coveralls/aureooms/js-max-gap.svg?style=flat)](https://coveralls.io/r/aureooms/js-max-gap)
