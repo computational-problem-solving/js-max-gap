@@ -1,5 +1,5 @@
 {
-  "name": "aureooms-js-max-gap",
+  "name": "@aureooms/js-max-gap",
   "description": "max-gap library for JavaScript",
   "version": "1.0.1",
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
@@ -23,8 +23,8 @@
     "url": "https://github.com/aureooms/js-max-gap/issues"
   },
   "dependencies": {
-    "aureooms-js-compare": "^1.4.5",
-    "aureooms-js-itertools": "^3.0.0"
+    "@aureooms/js-compare": "^1.4.5",
+    "@aureooms/js-itertools": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^0.18.0",
