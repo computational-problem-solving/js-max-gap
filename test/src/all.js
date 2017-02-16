@@ -2,7 +2,7 @@ import test from 'ava' ;
 
 import { linear , act } from '../../src' ;
 
-import { range } from 'aureooms-js-itertools' ;
+import { range } from '@aureooms/js-itertools' ;
 
 test( 'all' , t => {
 

@@ -1,4 +1,4 @@
-import { iter , reduce } from 'aureooms-js-itertools' ;
+import { iter , reduce } from '@aureooms/js-itertools' ;
 
 export function from_sorted ( numbers ) {
 
