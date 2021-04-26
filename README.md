@@ -1,7 +1,7 @@
-[aureooms/js-max-gap](https://aureooms.github.io/js-max-gap)
+[aureooms/js-max-gap](https://make-github-pseudonymous-again.github.io/js-max-gap)
 ==
 
-max-gap library for JavaScript. See [documentation](https://aureooms.github.io/js-max-gap/index.html).
+max-gap library for JavaScript. See [documentation](https://make-github-pseudonymous-again.github.io/js-max-gap/index.html).
 
 [![License](https://img.shields.io/github/license/aureooms/js-max-gap.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-max-gap/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-max-gap.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-max-gap)
@@ -12,4 +12,4 @@ max-gap library for JavaScript. See [documentation](https://aureooms.github.io/j
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-max-gap.svg?style=flat)](https://codeclimate.com/github/aureooms/js-max-gap)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-max-gap.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-max-gap)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-max-gap.svg?style=flat)](https://github.com/aureooms/js-max-gap/issues)
-[![Documentation](https://aureooms.github.io/js-max-gap/badge.svg)](https://aureooms.github.io/js-max-gap/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-max-gap/badge.svg)](https://make-github-pseudonymous-again.github.io/js-max-gap/source.html)
