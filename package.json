@@ -20,7 +20,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-max-gap/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-max-gap/issues"
   },
   "dependencies": {
     "@aureooms/js-compare": "^1.4.5",
@@ -47,7 +47,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-max-gap"
+    "url": "https://github.com/make-github-pseudonymous-again/js-max-gap"
   },
   "scripts": {
     "build": "babel src -d lib",
